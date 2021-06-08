@@ -1,1 +1,1 @@
-This is a README file containing the description of the repository.
+This file is mandatory in all ALX School projects
